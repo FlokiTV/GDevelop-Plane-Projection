@@ -2,7 +2,7 @@
 #### 2D plane projection built over PixiJS and support for GDevelop Engine
 ###### This Extension is in Early Acess - has a lot to do yet
 
-#### Tutorial:
+#### Tutorial: https://youtu.be/bOw7IpG33VE
 
 ### Dowload link: [Extension.json](https://raw.githubusercontent.com/FlokiTV/GDevelop-Plane-Projection/main/Extension.json)
 <hr>
