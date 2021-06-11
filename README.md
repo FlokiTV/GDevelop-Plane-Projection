@@ -5,6 +5,8 @@
 #### Tutorial: https://youtu.be/bOw7IpG33VE
 
 ### Dowload link: [Extension.json](https://raw.githubusercontent.com/FlokiTV/GDevelop-Plane-Projection/main/Extension.json)
+
+more documentation and wiki soon
 <hr>
 
 ##### Help me keep working on GDevelop Extensions
