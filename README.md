@@ -4,7 +4,7 @@
 
 #### Tutorial: https://youtu.be/bOw7IpG33VE
 
-### Dowload link: [Extension.json](https://raw.githubusercontent.com/FlokiTV/GDevelop-Plane-Projection/main/Extension.json)
+### Dowload link: [PlaneProjection.json](https://raw.githubusercontent.com/FlokiTV/GDevelop-Plane-Projection/main/PlaneProjection.json)
 
 more documentation and wiki soon
 <hr>
